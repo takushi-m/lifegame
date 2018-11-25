@@ -6,4 +6,4 @@
 3. Rキーでシミュレーション開始
 4. Qキーで終了
 
-!()[https://github.com/takushi-m/lifegame/blob/master/img.gif]
+![](https://github.com/takushi-m/lifegame/blob/master/img.gif)
